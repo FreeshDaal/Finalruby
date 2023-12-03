@@ -1,0 +1,4 @@
+repository "rubys_adventure@Robot5k@cloud"
+  path "/"
+    br "/main"
+    co "/main"
